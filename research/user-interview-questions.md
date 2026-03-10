@@ -16,7 +16,7 @@ Explain to me a time you had a bad or good experience with a health focused digi
 
 # User Interview Answers
 
-## Erica Martin:
+## Erica Martin
 
 I use whatsapp daily for work and staying in touch with family and friends. I use a laptop or notebook daily for work/school. I use the cell to play on apps and view social media. I use the cell for banking apps, navigation, and for translating languages.
 
@@ -32,7 +32,7 @@ Dry eye and migraines from looking at a computer during an 8 hour work week.
 
 Digital devices are used for women's wellness checks. They are helpful and we do not need to use them daily. Those are good experiences.
 
-## Alejandra Brown:
+## Alejandra Brown
 
 Instagram, twitter, Hulu, gmail, Google Docs, sheets, etc
 
