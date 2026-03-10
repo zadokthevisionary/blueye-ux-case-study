@@ -1,17 +1,23 @@
 # blueye-ux-case-study
 
-BLUEYE is a screen wellness application designed to help professionals reduce the negative side effects of prolonged screen exposure.
+# BLUEYE – UX Case Study
 
-As digital device usage continues to increase in modern workplaces, professionals experience health issues such as:
+## Overview
+BLUEYE is a screen wellness application designed to reduce the negative side effects of prolonged screen exposure.
 
-Eye strain
+## Problem
+Professionals who rely on digital devices experience eye strain, fatigue, headaches and sleep disruption.
 
-Headaches
+## Solution
+BLUEYE helps users monitor screen time and automatically activate blue light protection.
 
-Poor sleep quality
+## Prototype
+Figma Prototype: https://www.figma.com/proto/PNbjeG8hedDXVvXFj6yi09/BLUEYE?node-id=1-1225&starting-point-node-id=1%3A1225&t=iAe7iRoajl51ak2n-1
 
-Mental fatigue
-
-Instead of attempting to eliminate screen usage, BLUEYE focuses on harm reduction by helping users monitor their screen time and automatically activate protective features when limits are exceeded.
-
-This project explores the full UX design process including user research, personas, journey mapping, ideation/sketching, paper prototyping, and prototyping in Figma.
+## UX Process
+1. Research
+2. Personas
+3. Journey Mapping
+4. Ideation & Sketching
+5. Paper Prototype
+6. High Fidelity Prototype
