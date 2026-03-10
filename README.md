@@ -1,7 +1,5 @@
 # blueye-ux-case-study
 
-# BLUEYE – UX Case Study
-
 ## Overview
 BLUEYE is a screen wellness application designed to reduce the negative side effects of prolonged screen exposure.
 
