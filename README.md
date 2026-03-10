@@ -12,10 +12,11 @@ BLUEYE helps users monitor screen time and automatically activate blue light pro
 ## Prototype
 Figma Prototype: https://www.figma.com/proto/PNbjeG8hedDXVvXFj6yi09/BLUEYE?node-id=1-1225&starting-point-node-id=1%3A1225&t=iAe7iRoajl51ak2n-1
 
-## UX Process
+## UX/UI Process
 1. Research
 2. Personas
 3. Journey Mapping
 4. Ideation & Sketching
 5. Paper Prototype
 6. High Fidelity Prototype
+7. Usability Testing
