@@ -1,4 +1,4 @@
-# User Interviews Questions
+# User Interview Questions
 
 Can you walk me through your daily digital usage journey? (Apps used, business/personal tasks, etc)
 
