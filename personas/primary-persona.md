@@ -11,3 +11,5 @@ This makes Erica an ideal representation of the type of user BLUEYE is designed 
 By focusing on Erica’s goals, behaviors, and challenges, the design of BLUEYE prioritizes features such as screen time awareness, automated blue light protection, and health-focused digital interventions that support productivity without disrupting work.
 
 <img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/08dace95-9413-4fa4-a4d2-05de5d0661c9" />
+
+<img width="1024" height="768" alt="Customer Journey Map" src="https://github.com/user-attachments/assets/b6c370c2-095f-406c-b077-4bdb8273dd46" />
