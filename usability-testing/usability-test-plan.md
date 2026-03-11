@@ -1,53 +1,62 @@
-# OBJECTIVE & SCOPE
+# OBJECTIVE
 
-## Objective
+## Primary Objective
 
-To evaluate whether professionals can:
+To evaluate whether users can:
 
-- Easily understand and navigate the BLUEYE prototype
+- Understand the structure of the BLUEYE app
 
-- Successfully locate and interpret Screen Time Data Insights
+- Locate key features related to Screen Time Awareness and Goal Automation
 
-- Set up automated health goals and enable Auto Protection Mode
+- Interpret what each feature does without interacting with toggles
 
-- Perceive the features as useful for reducing side effects of prolonged screen exposure
+- Accurately explain how automation would work
 
-Additionally, the test aims to assess:
+## Secondary Objective
 
-- Clarity of language
+To assess:
 
-- Feature discoverability
+- Clarity of labeling
 
-- Perceived value of automation
+- Logical grouping of features
 
-- Overall usability and confidence
+- Perceived usefulness of core flows
 
-## Scope of Test
+- Confidence in understanding the product
 
-### Flow 1: Awareness of Daily Screen Time
+## SCOPE
 
-Settings → Data Insights Reports → Screen Time Meter → Switch between Daily / Weekly / Monthly
+Testing:
 
-### Flow 2: Health Goals with Automation
+- Flow A – Awareness of Screen Time
 
-Settings → Goal Setting Checklist → Enter Desired Goals → Set Screen Time Limits → Turn On Auto Protection Mode
+Settings → Data Insights Reports → Screen Time Meter → Daily / Weekly / Monthly views
+
+- Flow B – Goal Automation
+
+Settings → Goal Setting Checklist → Enter Screen Time Goal → Auto Protection Mode
+
+
+NOT testing:
+
+Toggle behavior
+
+Data accuracy
+
+Visual design preferences
+
+Micro-interactions
+
+Focus: Can they find it? Can they explain it?
 
 # PARTICIPANT PROFILE
 
-## Number of Participants
+- 5–6 working professionals who:
 
-5–7 participants
+- Use screens 5+ hours daily
 
-## Profile Criteria
+- Experience occasional screen fatigue
 
-Participants should:
+- Are comfortable navigating apps
 
-- Be 22–50 years old
-
-- Work at least 30 hours per week
-
-- Use digital devices 5+ hours daily
-
-- Experience occasional eye strain, headaches, or screen fatigue
-
-- Use laptops and smartphones daily
+- Fall within 22–50 age range
