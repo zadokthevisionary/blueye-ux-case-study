@@ -9,3 +9,5 @@ Erica values efficiency, organization, and productivity, and she prefers tools t
 This makes Erica an ideal representation of the type of user BLUEYE is designed for: professionals who must remain digitally connected throughout the day but still want to reduce the physical strain associated with excessive screen exposure.
 
 By focusing on Erica’s goals, behaviors, and challenges, the design of BLUEYE prioritizes features such as screen time awareness, automated blue light protection, and health-focused digital interventions that support productivity without disrupting work.
+
+<img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/08dace95-9413-4fa4-a4d2-05de5d0661c9" />
