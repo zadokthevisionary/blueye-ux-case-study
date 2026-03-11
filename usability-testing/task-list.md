@@ -1,57 +1,77 @@
-# TASK LIST
+# TASKS
 
-## Task 1 – Find Screen Time Data
+Participants will not toggle. They will:
 
-### “You want to check how much screen time you’ve used this week. Show me how you would do that.”
+- Point
 
-Success Criteria:
+- Click through screens
 
-- Navigates to Settings
+- Explain what they believe would happen
 
-- Finds Data Insights Reports
+## Task 1 – Locate Screen Time Data
 
-- Opens Screen Time Meter
+### “Imagine you want to see how much screen time you’ve used this week. Show me where you would go.”
 
-- Switches to Weekly view
+Measure:
 
-## Task 2 – Compare Screen Time Trends
+- Do they start in Settings?
 
-### “Now compare your daily and monthly screen time.”
+- Do they find Data Insights?
 
-Success Criteria:
+- Do they identify Screen Time Meter?
 
-- Finds toggle options
+Follow-up:
 
-- Understands chart labeling
+“What do you think this page is showing you?”
 
-## Task 3 – Set a Screen Time Goal
+## Task 2 – Interpret Data
 
-### “You’ve decided to reduce your screen time to 6 hours per day. Show me how you would set that goal.”
+### “Looking at this screen, what information do you think this app is giving you?”
 
-Success Criteria:
+Measure:
 
-- Navigates to Goal Setting Checklist
+- Can they distinguish Daily vs Weekly vs Monthly?
 
-- Inputs hours correctly
+- Do they understand trends?
 
-- Saves goal
+Follow-up:
 
-## Task 4 – Enable Auto Protection
+“If your screen time increased, how would you know?”
 
-### “You want the app to automatically activate protection mode when you exceed your goal. Show me how you would turn that on.”
+## Task 3 – Find Goal Setting
 
-Success Criteria:
+### “You’ve decided to reduce your daily screen time to 6 hours. Show me where you would set that goal.”
 
-- Finds Auto Protection Mode
+Measure:
 
-- Enables it successfully
+- Do they intuitively find Goal Setting Checklist?
 
-## Task 5 – Interpret Automation
+- Do they hesitate?
 
-### “What do you think will happen now that Auto Protection is on?”
+- Do they misinterpret labels?
 
-Measures:
+Follow-up:
+“What would you expect to happen after you enter that goal?”
 
-- Clarity of feature explanation
+## Task 4 – Locate Auto Protection
 
-- Mental model accuracy
+### “You want the app to automatically activate blue light mode when you exceed your screen limit. Show me where that would be.”
+
+Measure:
+
+- Discoverability of Auto Protection Mode
+
+- Understanding of automation
+
+Follow-up:
+“What do you think this feature would do in real life?”
+
+## Task 5 – Explain the System
+
+### “Explain to me how this app works in your own words.”
+
+Measure:
+
+- Mental model alignment
+
+- Clarity of value proposition
