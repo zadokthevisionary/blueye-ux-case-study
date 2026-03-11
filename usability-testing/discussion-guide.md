@@ -1,31 +1,43 @@
 # DISCUSSION GUIDE (Post-Test)
 
-## Perceived Usefulness
+## Understanding
 
-- Would this tool realistically help reduce your screen-related discomfort?
+- Was it clear what the main purpose of this app is?
 
-- Which feature felt most useful?
+- What do you think the primary feature is?
 
-- Which feature felt unnecessary?
+- Was anything confusing or mislabeled?
 
-## Clarity
+## Navigation
 
-- Was anything confusing or unclear?
+- Did the structure of the app feel logical?
 
-- Were the labels intuitive?
+- Was anything difficult to find?
+
+- Where did you expect something to be but it wasn’t?
 
 ## Automation Perception
 
-- How do you feel about automatic protection turning on?
+- Do you understand how Auto Protection Mode works?
 
-- Would you trust it to run in the background?
+- Would you trust it to run automatically?
 
-## Motivation
+- Does automation feel helpful or intrusive?
 
-- Would this change your screen habits?
+## Usefulness
 
-- What would make you use this consistently?
+- Would this realistically help reduce screen fatigue?
 
-## Final Question
+- Which feature feels most valuable?
 
-- If this were available today, would you download it? Why or why not?
+- Which feature feels unnecessary?
+
+## Clarity Rating
+
+- On a scale of 1–5:
+
+- How easy was it to navigate?
+
+- How clear were the labels?
+
+- How confident are you that you understand how it works?
