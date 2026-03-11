@@ -31,3 +31,23 @@ Settings → Data Insights Reports → Screen Time Meter → Switch between Dail
 ### Flow 2: Health Goals with Automation
 
 Settings → Goal Setting Checklist → Enter Desired Goals → Set Screen Time Limits → Turn On Auto Protection Mode
+
+# PARTICIPANT PROFILE
+
+## Number of Participants
+
+5–7 participants
+
+## Profile Criteria
+
+Participants should:
+
+- Be 22–50 years old
+
+- Work at least 30 hours per week
+
+- Use digital devices 5+ hours daily
+
+- Experience occasional eye strain, headaches, or screen fatigue
+
+- Use laptops and smartphones daily
